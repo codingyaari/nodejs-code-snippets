@@ -1,11 +1,11 @@
 # 🌑 Node.js Backend Snippets 
 
 ## ⚡ Supercharge Your Node/Express Development 
-## Full-stack ready snippets for Node/Express: CRUD controllers, auth flows, Mongoose models, MongoDB connect, JWT middleware, and Express routes. Works in VS Code, Cursor, VSCodium, Code OSS, and Zed.
 
 <p align="center">
   <img src="./images/icon.png" width="100%" />
 </p>
+## Full-stack ready snippets for Node/Express: CRUD controllers, auth flows, Mongoose models, MongoDB connect, JWT middleware, and Express routes. Works in VS Code, Cursor, VSCodium, Code OSS, and Zed.
 
 <p align="center">
   <img src="https://img.shields.io/badge/VS%20Code%20Extension-Node.js%20Backend%20Snippets-3c9?style=for-the-badge&logo=visualstudiocode" />
