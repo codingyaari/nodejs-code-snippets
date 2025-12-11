@@ -4,7 +4,7 @@
 ## Full-stack ready snippets for Node/Express: CRUD controllers, auth flows, Mongoose models, MongoDB connect, JWT middleware, and Express routes. Works in VS Code, Cursor, VSCodium, Code OSS, and Zed.
 
 <p align="center">
-  <img src="images/icon.png" width="100%" />
+  <img src="./images/icon.png" width="100%" />
 </p>
 
 <p align="center">
