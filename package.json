@@ -1,0 +1,57 @@
+{
+  "name": "nodejs-code-snippets",
+  "displayName": "Node.js Code Snippets",
+  "description": "CRUD controllers, auth, model, and database snippets for Node.js (VS Code, Cursor, VSCodium, Code OSS, Zed).",
+  "version": "0.0.1",
+  "publisher": "codingyaari",
+  "license": "MIT",
+  "icon": "images/icon.png",
+  "author": {
+    "name": "codingyaari"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/codingyaari/nodejs-code-snippets.git"
+  },
+  "bugs": {
+    "url": "https://github.com/codingyaari/nodejs-code-snippets/issues"
+  },
+  "homepage": "https://github.com/codingyaari/nodejs-code-snippets#readme",
+  "keywords": [
+    "node",
+    "express",
+    "mongoose",
+    "crud",
+    "auth",
+    "controller",
+    "snippet",
+    "backend"
+  ],
+  "qna": false,
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Snippets"
+  ],
+  "scripts": {
+    "package": "vsce package"
+  },
+  "galleryBanner": {
+    "color": "#1abc9c",
+    "theme": "dark"
+  },
+  "contributes": {
+    "snippets": [
+      {
+        "language": "javascript",
+        "path": "./snippets/backend-snippets.json"
+      },
+      {
+        "language": "typescript",
+        "path": "./snippets/backend-snippets.json"
+      }
+    ]
+  }
+}
+
